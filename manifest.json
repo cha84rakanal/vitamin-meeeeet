@@ -1,9 +1,9 @@
 {
-  "manifest_version": 2,
-  "name": "ビタミンMeeeeet",
+  "manifest_version": 1,
+  "name": "Meet Transcript on ビタミンMeeeeet",
   "version": "1.0",
 
-  "description": "Google Meetでカメラ替わりに動画ファイルを流したり、マイクに重ねて音源ファイルを再生したりできます。",
+  "description": "Google Meetでカメラの上に字幕をオーバーレイすることができます。",
   "icons":  {
     "16": "icon16.png",
     "48": "icon48.png"
